@@ -29,6 +29,11 @@ more than one point per category. There is a maximum of 5 points each week.
 	+ Total 4 points
 - Week 1
 	+ Attended class on Tuesday
+	+ Introduced myself to Veda
+	+ Answered a classmate's question
+	+ Attended class on Thursday
+	+ Asked a question in class
+	+ Total 5 points
 - Week 2
 - Week 3
 - Week 4
