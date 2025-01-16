@@ -1,4 +1,4 @@
-#Favorite Things
+# Favorite Things
 
 **Animals:**
 1. Dogs
