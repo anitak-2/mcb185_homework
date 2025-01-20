@@ -1,0 +1,1 @@
+cd ~/Code/MCB185/data; gunzip -c dictionary.gz | grep -E "^[zoniac]*r[zoniac]*r*[zoniac]*$" | grep -E ".{4,}"
