@@ -42,7 +42,12 @@ more than one point per category. There is a maximum of 5 points each week.
 	+ Introduced myself to DQ
 	+ Total 5 points
 - Week 3
-	+
+	+ Asked a question on Discord
+	+ Attended class on Tuesday
+	+ Introduced myself to Cordelia
+	+ Attended class on Thursday
+	+ Asked a classmate a question
+	+ Total 5 points
 - Week 4
 - Week 5
 - Week 6
