@@ -49,6 +49,12 @@ more than one point per category. There is a maximum of 5 points each week.
 	+ Asked a classmate a question
 	+ Total 5 points
 - Week 4
+	+ Attended class on Tuesday
+	+ Asked a classmate a question
+	+ Attended class on Thursday
+	+ Asked a classmate a question
+	+ Asked the TA a question
+	+ Total 5 points
 - Week 5
 - Week 6
 - Week 7
