@@ -63,7 +63,23 @@ more than one point per category. There is a maximum of 5 points each week.
 	+ Introduced myself to Orlando
 	+ Total 5 points
 - Week 6
+	+ Attended class on Tuesday
+	+ Asked a classmate a question
+	+ Attended class on Thursday
+	+ Asked a classmate a question
+	+ Asked the TA a question
+	+ Total 5 points
 - Week 7
+	+ Attended class on Tuesday
+	+ Asked a classmate a question
+	+ Attended class on Thursday
+	+ Total 3 points
 - Week 8
+	+ Attended class on Tuesday
+	+ Asked a classmate a question
+	+ Attended class on Thursday
+	+ Total 3 points
 - Week 9
+	+ Attended class on Tuesday
+	+ Asked a classmate a question
 - Week 10
